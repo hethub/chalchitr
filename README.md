@@ -27,7 +27,7 @@
 
 <img src="https://github.com/hethub/chalchitr/assets/75110278/671a5e94-4f72-4501-b542-547c8cd4b3e8" width="400">
 
-<h1>Movie Booking </h1>
+<h1>Movie Ticket </h1>
 <img src="https://github.com/hethub/chalchitr/assets/75110278/619796a3-e328-4a0f-81b5-bfdbe79633da" width="400">
 
 
