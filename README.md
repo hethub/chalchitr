@@ -11,7 +11,11 @@
 #
 
 <h1>Login</h1>
- <img src="https://github.com/hethub/chalchitr/assets/75110278/942e180d-168e-4369-8a33-25c2e649c76a" width="400" alt="Login">
+
+ <img src="https://github.com/hethub/chalchitr/assets/75110278/942e180d-168e-4369-8a33-25c2e649c76a" width="400" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
 
 
 
