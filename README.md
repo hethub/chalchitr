@@ -23,3 +23,12 @@
 
 ![Uploading Screenshot_2023-06-07-21-03-17-705_com.example.chalchitr.jpg…]()
 ![Screenshot_2023-06-07-21-03-22-552_com example chalchitr](https://github.com/hethub/chalchitr/assets/75110278/4902d8d5-c9cf-4d0f-97fd-3165c9b7112c)
+
+![Screenshot_2023-06-07-21-03-26-508_com example chalchitr](https://github.com/hethub/chalchitr/assets/75110278/5adcd073-6c39-4086-9f34-38e43a7555bf)
+![Screenshot_2023-06-07-21-04-34-270_com example chalchitr](https://github.com/hethub/chalchitr/assets/75110278/129fbf2a-d80c-4392-ba87-b0eab3eb2fe9)
+![Screenshot_2023-06-07-21-05-03-098_com example chalchitr](https://github.com/hethub/chalchitr/assets/75110278/54de8462-8a47-4686-abb7-37f43de3973e)
+![Screenshot_2023-06-07-21-05-30-256_com example chalchitr](https://github.com/hethub/chalchitr/assets/75110278/2f07ce46-d1d2-4f7d-93d8-79d7d541102b)
+![Screenshot_2023-06-07-21-06-02-928_com example chalchitr](https://github.com/hethub/chalchitr/assets/75110278/8a4c5bcc-53be-4ca6-942b-5671dd8fd39d)
+
+![Screenshot_2023-06-07-21-06-51-591_com example chalchitr](https://github.com/hethub/chalchitr/assets/75110278/6d098fe4-5c18-450f-8c94-916f9be5d60c)
+
