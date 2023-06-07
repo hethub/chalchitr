@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021235591695",
+    "project_id": "chalchitr-6d34c",
+    "storage_bucket": "chalchitr-6d34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021235591695:android:ffe72a61279125e40a017a",
+        "android_client_info": {
+          "package_name": "com.example.chalchitr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pBGAslhAWW2OKfspEdM1_cCl1bKeeyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
