@@ -25,6 +25,8 @@
 <h1>Movie Detail</h1>
 <img src="https://github.com/hethub/chalchitr/assets/75110278/ce7cab20-5fda-4fdf-be07-47f233aa4b6d" width="400">
 
+<img src="https://github.com/hethub/chalchitr/assets/75110278/671a5e94-4f72-4501-b542-547c8cd4b3e8" width="400">
+
 <h1>Movie Booking </h1>
 <img src="https://github.com/hethub/chalchitr/assets/75110278/619796a3-e328-4a0f-81b5-bfdbe79633da" width="400">
 
@@ -37,8 +39,6 @@
 
 <img src="https://github.com/hethub/chalchitr/assets/75110278/e52c0b24-c656-4e63-91b2-62fd21081e6b" width="400">
 
-
-<img src="https://github.com/hethub/chalchitr/assets/75110278/671a5e94-4f72-4501-b542-547c8cd4b3e8" width="400">
 
 
 <img src="https://github.com/hethub/chalchitr/assets/75110278/1532abfd-85dd-4cbd-8c8b-6893a3655c22" width="400">
