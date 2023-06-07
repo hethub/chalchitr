@@ -1,0 +1,13 @@
+com.davidmartos96.sqflite_sqlcipher-core-1.6.0-0 /Users/jaibholenath/.gradle/caches/transforms-3/1141b72fb8be4e566e7814849b1aa3a2/transformed/core-1.6.0/res
+com.davidmartos96.sqflite_sqlcipher-jetified-window-1.0.0-beta04-1 /Users/jaibholenath/.gradle/caches/transforms-3/40ff8c014bc3b03149787e1d45a42dea/transformed/jetified-window-1.0.0-beta04/res
+com.davidmartos96.sqflite_sqlcipher-jetified-annotation-experimental-1.1.0-2 /Users/jaibholenath/.gradle/caches/transforms-3/a6362f1fb79a6245a27920bb99ff99c3/transformed/jetified-annotation-experimental-1.1.0/res
+com.davidmartos96.sqflite_sqlcipher-jetified-android-database-sqlcipher-4.5.0-3 /Users/jaibholenath/.gradle/caches/transforms-3/a7e93384510c25460a810de1c1243a71/transformed/jetified-android-database-sqlcipher-4.5.0/res
+com.davidmartos96.sqflite_sqlcipher-jetified-window-java-1.0.0-beta04-4 /Users/jaibholenath/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
+com.davidmartos96.sqflite_sqlcipher-main-5 /Users/jaibholenath/.pub-cache/hosted/pub.dev/sqflite_sqlcipher-2.1.1+1/android/src/main/res
+com.davidmartos96.sqflite_sqlcipher-release-6 /Users/jaibholenath/.pub-cache/hosted/pub.dev/sqflite_sqlcipher-2.1.1+1/android/src/release/res
+com.davidmartos96.sqflite_sqlcipher-pngs-7 /Users/jaibholenath/Desktop/chalchitr/build/sqflite_sqlcipher/generated/res/pngs/release
+com.davidmartos96.sqflite_sqlcipher-resValues-8 /Users/jaibholenath/Desktop/chalchitr/build/sqflite_sqlcipher/generated/res/resValues/release
+com.davidmartos96.sqflite_sqlcipher-rs-9 /Users/jaibholenath/Desktop/chalchitr/build/sqflite_sqlcipher/generated/res/rs/release
+com.davidmartos96.sqflite_sqlcipher-mergeReleaseResources-10 /Users/jaibholenath/Desktop/chalchitr/build/sqflite_sqlcipher/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.davidmartos96.sqflite_sqlcipher-mergeReleaseResources-11 /Users/jaibholenath/Desktop/chalchitr/build/sqflite_sqlcipher/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.davidmartos96.sqflite_sqlcipher-merged_res-12 /Users/jaibholenath/Desktop/chalchitr/build/sqflite_sqlcipher/intermediates/merged_res/release
